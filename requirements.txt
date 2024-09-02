@@ -1,0 +1,7 @@
+opencv-python
+matplotlib
+keras
+tensorflow
+numpy
+mediapipe
+streamlit
